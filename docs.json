@@ -1,7 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "appearance": {
+    "default": "light",
+    "strict": true 
+},
+  "name": "Argon",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
