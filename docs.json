@@ -46,7 +46,7 @@
           "anchor": "Github",
           "href": "https://github.com/argon-foss",
           "icon": "github"
-        },
+        }
       ]
     }
   },
@@ -70,7 +70,7 @@
   "footer": {
     "socials": {
       "discord": "https://discord.gg/deploy",
-      "github":"https://github.com/argon-foss"
+      "github": "https://github.com/argon-foss"
     }
   }
 }
