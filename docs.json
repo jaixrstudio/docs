@@ -23,17 +23,13 @@
           {
             "group": "Argon Panel",
             "pages": [
-              "argon/introduction",
-              "argon/installation",
-              "argon/configuration"
+              "argon/introduction"
             ]
           },
           {
             "group": "Krypton Daemon",
             "pages": [
-              "krypton/introduction",
-              "krypton/installation",
-              "krypton/configuration"
+              "krypton/installation"
             ]
           }
         ]
