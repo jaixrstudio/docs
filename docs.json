@@ -16,21 +16,24 @@
     "tabs": [
       {
         "tab": "Documentation",
+        "pages": [
+          "index"
+        ],
         "groups": [
           {
             "group": "Argon Panel",
             "pages": [
-              "argon-panel/introduction",
-              "argon-panel/installation",
-              "argon-panel/configuration"
+              "argon/introduction",
+              "argon/installation",
+              "argon/configuration"
             ]
           },
           {
             "group": "Krypton Daemon",
             "pages": [
-              "krypton-daemon/introduction",
-              "krypton-daemon/installation",
-              "krypton-daemon/configuration"
+              "krypton/introduction",
+              "krypton/installation",
+              "krypton/configuration"
             ]
           }
         ]
