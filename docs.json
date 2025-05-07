@@ -3,8 +3,8 @@
   "theme": "mint",
   "appearance": {
     "default": "light",
-    "strict": true 
-},
+    "strict": true
+  },
   "name": "Argon",
   "colors": {
     "primary": "#615ffe",
@@ -15,45 +15,22 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documentation",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Argon Panel",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "argon-panel/introduction",
+              "argon-panel/installation",
+              "argon-panel/configuration"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Krypton Daemon",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "krypton-daemon/introduction",
+              "krypton-daemon/installation",
+              "krypton-daemon/configuration"
             ]
           }
         ]
