@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "almond",
   "appearance": {
     "default": "light",
     "strict": true
   },
-  "name": "Argon",
+  "name": "Jaixr Blog",
   "colors": {
     "primary": "#615ffe",
     "light": "#07C983",
@@ -19,20 +19,7 @@
         "pages": [
           "index"
         ],
-        "groups": [
-          {
-            "group": "Argon Panel",
-            "pages": [
-              "argon/installation"
-            ]
-          },
-          {
-            "group": "Krypton Daemon",
-            "pages": [
-              "krypton/installation"
-            ]
-          }
-        ]
+        "groups": []
       }
     ],
     "global": {
@@ -44,7 +31,7 @@
         },
         {
           "anchor": "Github",
-          "href": "https://github.com/argon-foss",
+          "href": "#",
           "icon": "github"
         }
       ]
@@ -64,13 +51,75 @@
     "primary": {
       "type": "button",
       "label": "Github",
-      "href": "https://github.com/argon-foss"
+      "href": "#"
     }
   },
   "footer": {
     "socials": {
       "discord": "https://discord.gg/deploy",
-      "github": "https://github.com/argon-foss"
+      "github": "#"
     }
   }
-}
+}{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "appearance": {
+    "default": "light",
+    "strict": true
+  },
+  "name": "Jaixr Blog",
+  "colors": {
+    "primary": "#615ffe",
+    "light": "#07C983",
+    "dark": "#15803D"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "pages": [
+          "index"
+        ],
+        "groups": []
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Discord",
+          "href": "https://discord.gg/deploy",
+          "icon": "discord"
+        },
+        {
+          "anchor": "Github",
+          "href": "#",
+          "icon": "github"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/logo/image.jpeg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Discord",
+        "href": "https://discord.gg/deploy"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Github",
+      "href": "#"
+    }
+  },
+  "footer": {
+    "socials": {
+      "discord": "https://discord.gg/deploy",
+      "github": "#"
+    }
+  }
+  }
