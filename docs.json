@@ -5,7 +5,7 @@
     "default": "light",
     "strict": true
   },
-  "name": "Jaixr Blog",
+  "name": "Summer Host",
   "colors": {
     "primary": "#615ffe",
     "light": "#07C983",
@@ -31,7 +31,7 @@
         },
         {
           "anchor": "Github",
-          "href": "#",
+          "href": "https://www.google.com",
           "icon": "github"
         }
       ]
@@ -51,75 +51,13 @@
     "primary": {
       "type": "button",
       "label": "Github",
-      "href": "#"
+      "href": "https://www.google.com"
     }
   },
   "footer": {
     "socials": {
       "discord": "https://discord.gg/deploy",
-      "github": "#"
+      "github": "https://www.google.com"
     }
   }
-}{
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "appearance": {
-    "default": "light",
-    "strict": true
-  },
-  "name": "Jaixr Blog",
-  "colors": {
-    "primary": "#615ffe",
-    "light": "#07C983",
-    "dark": "#15803D"
-  },
-  "favicon": "/favicon.svg",
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Documentation",
-        "pages": [
-          "index"
-        ],
-        "groups": []
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Discord",
-          "href": "https://discord.gg/deploy",
-          "icon": "discord"
-        },
-        {
-          "anchor": "Github",
-          "href": "#",
-          "icon": "github"
-        }
-      ]
-    }
-  },
-  "logo": {
-    "light": "/logo/image.jpeg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Discord",
-        "href": "https://discord.gg/deploy"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Github",
-      "href": "#"
-    }
-  },
-  "footer": {
-    "socials": {
-      "discord": "https://discord.gg/deploy",
-      "github": "#"
-    }
-  }
-  }
+}
