@@ -59,5 +59,15 @@
       "discord": "https://discord.gg/deploy",
       "github": "https://www.google.com"
     }
+  },
+  "fonts": {
+    "heading": {
+      "family": "Cormorant Garamond",
+      "weight": 700
+    },
+    "body": {
+      "family": "Inter",
+      "weight": 400
+    }
   }
 }
