@@ -19,14 +19,14 @@
         "pages": [
           "index"
         ],
-        "groups": []
-      },
-      {
-        "tab": "Individual",
-        "pages": [
-          "Individual/matt"
-        ],
-        "groups": []
+        "groups": [
+          {
+            "group": "Individual",
+            "pages": [
+              "Individual/matt"
+            ]
+          }
+        ]
       }
     ],
     "global": {
