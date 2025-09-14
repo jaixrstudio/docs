@@ -68,14 +68,13 @@
     }
   },
   "fonts": {
-  "heading": {
-    "family": "Cormorant Garamond",
-    "weight": 700
-  },
-  "body": {
-    "family": "Merriweather",
-    "weight": 400
-  }
-}
+    "heading": {
+      "family": "Cormorant Garamond",
+      "weight": 700
+    },
+    "body": {
+      "family": "Merriweather",
+      "weight": 400
+    }
   }
 }
