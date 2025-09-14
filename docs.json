@@ -17,7 +17,7 @@
       {
         "tab": "Documentation",
         "pages": [
-          "index"
+          "index.mdx"
         ],
         "groups": [
           {
