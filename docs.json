@@ -20,6 +20,13 @@
           "index"
         ],
         "groups": []
+      },
+      {
+        "tab": "Individual",
+        "pages": [
+          "individual/matt"
+        ],
+        "groups": []
       }
     ],
     "global": {
