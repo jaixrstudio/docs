@@ -75,6 +75,10 @@
     "body": {
       "family": "Inter",
       "weight": 400
+    },
+    "nav": {
+      "family": "Cormorant Garamond",
+      "weight": 600
     }
   }
 }
